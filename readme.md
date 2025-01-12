@@ -10,8 +10,8 @@ The system is comprised of two specialized agents: **Receptionist** and **Insura
 ### **Receptionist**
 The Receptionist agent is responsible for:  
 - Answering general questions that can be handled by a large language model (LLM).  
-- Retrieving information from the 2023 Manulife Annual Report to address finance-related queries specific to Manulife.  
-- Performing web searches to provide answers for questions outside its built-in knowledge base (e.g., "What is the current weather in Hong Kong?").  
+- Retrieving information from the  [2023 Manulife Annual Report](https://www.manulife.com/content/dam/corporate/en/documents/investors/MFC_SR_2023_Y1_EN.pdf) to address finance-related queries specific to Manulife (i.e., doing RAG).
+- Performing web searches to provide answers for questions outside its knowledge base (e.g., "What is the current weather in Hong Kong?").  
 
 ### **Insurance Advisor**
 The Insurance Advisor agent specializes in:  
