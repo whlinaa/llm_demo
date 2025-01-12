@@ -29,7 +29,7 @@ Below is a graphical representation of the chatbot system's workflow:
 
 ## Technologies Used
 - This project uses LangChain and LangGraph, among other dependencies.
-- We use Gemini 2.0 Flash (`gemini-2.0-flash-exp`) from Google Cloud Platform's (GCP) Vertex AI for the LLM. You can easily switch models by modifying the model variable.
+- We use Gemini 2.0 Flash (`gemini-2.0-flash-exp`) from Google Cloud Platform's (GCP) Vertex AI for the LLM. You can easily switch models by modifying the `model` variable in the notebook file `llm_demo.ipynb`.
 
 ## Code Base
 - To explore the implementation, please refer to the notebook file `llm_demo.ipynb`.
