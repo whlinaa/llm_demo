@@ -1,4 +1,4 @@
-# Project: Chatbot for Manulife
+# Project: Role-Based AI Insurance Chatbot
 This project implements a chatbot system designed to assist users with a variety of tasks, featuring the following key capabilities:  
 - **Conversation memory**: Retains context across user interactions.  
 - **Retrieval-Augmented Generation (RAG)**: Answers user questions by retrieving relevant information from documents.  
