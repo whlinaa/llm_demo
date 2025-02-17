@@ -25,7 +25,7 @@ The two agents work collaboratively as follows:
 ## State Graph
 Below is a graphical representation of the chatbot system's workflow: 
 
-![Manulife Chatbot Diagram](img/state_graph.png "Chatbot System Overview")
+![Manulife Chatbot Diagram](img/state_graph_langgraph.png "Chatbot System Overview")
 
 ## Technologies Used
 - This project uses LangChain and LangGraph, among other dependencies.
